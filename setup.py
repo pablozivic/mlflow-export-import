@@ -6,7 +6,7 @@ setup(name="mlflow_export_import",
       author="Andre M",
       description="MLflow export/import experiments, runs or registered models",
       url="https://github.com/amesar/mlflow-export-import",
-      python_requires=">=3.7",
+      python_requires=">=3.6",
       packages=find_packages(),
       zip_safe=False,
       install_requires=[
